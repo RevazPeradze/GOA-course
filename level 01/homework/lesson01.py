@@ -1,0 +1,2 @@
+print("revaz")
+print("peradze")
